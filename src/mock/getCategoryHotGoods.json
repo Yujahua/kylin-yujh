@@ -1,0 +1,68 @@
+/**
+ * Json data file
+ *
+ * @url /getCategoryHotGoods
+ */
+ {
+    "resultData":[{
+       "title": "【亲亲旗舰店】芒果干100g*3袋",
+       "imgsrc": "./src/assets/天猫精灵CCL保护套 智能音响AI配件猫耳朵斗篷外衣硅胶套 天猫精灵CCH全屏高清护眼防爆摔钢化膜通用升压线-tmall.com天猫.png",
+       "price":"180",
+       "originprice":"240",
+       "goodPraiseNum": 587
+    },{
+       "title": "【亲亲旗舰店】芒果干100g*3袋",
+       "imgsrc": "./src/assets/天猫精灵CCL保护套 智能音响AI配件猫耳朵斗篷外衣硅胶套 天猫精灵CCH全屏高清护眼防爆摔钢化膜通用升压线-tmall.com天猫.png",
+       "price":"180",
+       "originprice":"240",
+       "goodPraiseNum": 587
+    },{
+       "title": "【亲亲旗舰店】芒果干100g*3袋",
+       "imgsrc": "./src/assets/天猫精灵CCL保护套 智能音响AI配件猫耳朵斗篷外衣硅胶套 天猫精灵CCH全屏高清护眼防爆摔钢化膜通用升压线-tmall.com天猫.png",
+       "price":"180",
+       "originprice":"240",
+       "goodPraiseNum": 587
+    },{
+       "title": "【亲亲旗舰店】芒果干100g*3袋",
+       "imgsrc": "./src/assets/天猫精灵CCL保护套 智能音响AI配件猫耳朵斗篷外衣硅胶套 天猫精灵CCH全屏高清护眼防爆摔钢化膜通用升压线-tmall.com天猫.png",
+       "price":"180",
+       "originprice":"240",
+       "goodPraiseNum": 587
+    },{
+       "title": "【亲亲旗舰店】芒果干100g*3袋",
+       "imgsrc": "./src/assets/天猫精灵CCL保护套 智能音响AI配件猫耳朵斗篷外衣硅胶套 天猫精灵CCH全屏高清护眼防爆摔钢化膜通用升压线-tmall.com天猫.png",
+       "price":"180",
+       "originprice":"240",
+       "goodPraiseNum": 587
+    },{
+       "title": "【亲亲旗舰店】芒果干100g*3袋",
+       "imgsrc": "./src/assets/天猫精灵CCL保护套 智能音响AI配件猫耳朵斗篷外衣硅胶套 天猫精灵CCH全屏高清护眼防爆摔钢化膜通用升压线-tmall.com天猫.png",
+       "price":"180",
+       "originprice":"240",
+       "goodPraiseNum": 587
+    },{
+       "title": "【亲亲旗舰店】芒果干100g*3袋",
+       "imgsrc": "./src/assets/天猫精灵CCL保护套 智能音响AI配件猫耳朵斗篷外衣硅胶套 天猫精灵CCH全屏高清护眼防爆摔钢化膜通用升压线-tmall.com天猫.png",
+       "price":"180",
+       "originprice":"240",
+       "goodPraiseNum": 587
+    },{
+       "title": "【亲亲旗舰店】芒果干100g*3袋",
+       "imgsrc": "./src/assets/天猫精灵CCL保护套 智能音响AI配件猫耳朵斗篷外衣硅胶套 天猫精灵CCH全屏高清护眼防爆摔钢化膜通用升压线-tmall.com天猫.png",
+       "price":"180",
+       "originprice":"240",
+       "goodPraiseNum": 587
+    },{
+       "title": "【亲亲旗舰店】芒果干100g*3袋",
+       "imgsrc": "./src/assets/天猫精灵CCL保护套 智能音响AI配件猫耳朵斗篷外衣硅胶套 天猫精灵CCH全屏高清护眼防爆摔钢化膜通用升压线-tmall.com天猫.png",
+       "price":"180",
+       "originprice":"240",
+       "goodPraiseNum": 587
+    },{
+       "title": "【亲亲旗舰店】芒果干100g*3袋",
+       "imgsrc": "./src/assets/天猫精灵CCL保护套 智能音响AI配件猫耳朵斗篷外衣硅胶套 天猫精灵CCH全屏高清护眼防爆摔钢化膜通用升压线-tmall.com天猫.png",
+       "price":"180",
+       "originprice":"240",
+       "goodPraiseNum": 587
+    }]
+}

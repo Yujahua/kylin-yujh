@@ -1,0 +1,29 @@
+/**
+ * Json data file
+ *
+ * @url /getCategories
+ */
+{
+    "resultData": [{
+        "title": "精选",
+        "id": "js01"
+    },{
+        "title": "食品",
+        "id": "sp01"
+    },{
+        "title": "百货",
+        "id": "bh01"
+    },{
+        "title": "家电",
+        "id": "jd01"
+    },{
+        "title": "手机",
+        "id": "sj01"
+    },{
+        "title": "个护",
+        "id": "gh01"
+    },{
+        "title": "男装",
+        "id": "nzs01"
+    }]
+}

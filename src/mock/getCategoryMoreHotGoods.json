@@ -1,0 +1,38 @@
+/**
+ * Json data file
+ *
+ * @url /getCategoryMoreHotGoods
+ */
+ {
+    "resultData":[{
+       "title": "娃哈哈营养快线椰子味水蜜桃味 1.5kg*6瓶整箱大瓶饮料早餐牛奶 椰子味1.5kg*6瓶",
+       "imgsrc": "./src/assets/761c0b4d37412439.jpg",
+       "price":"180",
+       "praises": ["非常好喝", "我每天喝两瓶"]
+    },{
+       "title": "娃哈哈营养快线椰子味水蜜桃味 1.5kg*6瓶整箱大瓶饮料早餐牛奶 椰子味1.5kg*6瓶",
+       "imgsrc": "./src/assets/761c0b4d37412439.jpg",
+       "price":"180",
+       "praises": ["非常好喝", "我每天喝两瓶"]
+    },{
+       "title": "娃哈哈营养快线椰子味水蜜桃味 1.5kg*6瓶整箱大瓶饮料早餐牛奶 椰子味1.5kg*6瓶",
+       "imgsrc": "./src/assets/761c0b4d37412439.jpg",
+       "price":"180",
+       "praises": ["非常好喝", "我每天喝两瓶"]
+    },{
+       "title": "娃哈哈营养快线椰子味水蜜桃味 1.5kg*6瓶整箱大瓶饮料早餐牛奶 椰子味1.5kg*6瓶",
+       "imgsrc": "./src/assets/761c0b4d37412439.jpg",
+       "price":"180",
+       "praises": ["非常好喝", "我每天喝两瓶"]
+    },{
+       "title": "娃哈哈营养快线椰子味水蜜桃味 1.5kg*6瓶整箱大瓶饮料早餐牛奶 椰子味1.5kg*6瓶",
+       "imgsrc": "./src/assets/761c0b4d37412439.jpg",
+       "price":"180",
+       "praises": ["非常好喝", "我每天喝两瓶"]
+    },{
+      "title": "娃哈哈营养快线椰子味水蜜桃味 1.5kg*6瓶整箱大瓶饮料早餐牛奶 椰子味1.5kg*6瓶",
+      "imgsrc": "./src/assets/761c0b4d37412439.jpg",
+      "price":"180",
+      "praises": ["非常好喝", "我每天喝两瓶"]
+   }]
+}
